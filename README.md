@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:003a2f,100:00ff9f&height=200&section=header&text=F%C5%B1r%C3%A9sz%20Bence&fontSize=56&fontColor=00ff9f&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60&descSize=20&descColor=aaaaaa&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:003a2f,100:00ff9f&height=140&section=header" />
 
 <div align="center">
 
